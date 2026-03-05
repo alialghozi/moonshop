@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+div {
+  padding: 10px;
+  background: #fff;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
